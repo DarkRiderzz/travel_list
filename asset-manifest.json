@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DarkRiderzz/travel_list.git/static/css/main.fbcabdbe.css",
-    "main.js": "/DarkRiderzz/travel_list.git/static/js/main.103956f0.js",
-    "index.html": "/DarkRiderzz/travel_list.git/index.html",
-    "main.fbcabdbe.css.map": "/DarkRiderzz/travel_list.git/static/css/main.fbcabdbe.css.map",
-    "main.103956f0.js.map": "/DarkRiderzz/travel_list.git/static/js/main.103956f0.js.map"
+    "main.css": "/travel_list/static/css/main.fbcabdbe.css",
+    "main.js": "/travel_list/static/js/main.103956f0.js",
+    "index.html": "/travel_list/index.html",
+    "main.fbcabdbe.css.map": "/travel_list/static/css/main.fbcabdbe.css.map",
+    "main.103956f0.js.map": "/travel_list/static/js/main.103956f0.js.map"
   },
   "entrypoints": [
     "static/css/main.fbcabdbe.css",
