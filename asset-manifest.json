@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DarkRiderzz/travel_list.git/static/css/main.fbcabdbe.css",
+    "main.js": "/DarkRiderzz/travel_list.git/static/js/main.103956f0.js",
+    "index.html": "/DarkRiderzz/travel_list.git/index.html",
+    "main.fbcabdbe.css.map": "/DarkRiderzz/travel_list.git/static/css/main.fbcabdbe.css.map",
+    "main.103956f0.js.map": "/DarkRiderzz/travel_list.git/static/js/main.103956f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbcabdbe.css",
+    "static/js/main.103956f0.js"
+  ]
+}
